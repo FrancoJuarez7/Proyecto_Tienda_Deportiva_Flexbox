@@ -37,4 +37,9 @@ Este repositorio contiene el código fuente para el sitio web de una tienda depo
 - Este proyecto está desplegado y disponible para acceder en GitHub Pages.
 
 ## Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas sugerir mejoras en el diseño, el contenido o cualquier otro aspecto del currículum vitae, no dudes en abrir un issue o enviar una solicitud de extracción con tus cambios propuestos.
+
+¡Las contribuciones son bienvenidas! Si deseas sugerir mejoras en el diseño, la funcionalidad o cualquier otro aspecto del blog, no dudes en abrir un issue o enviar una solicitud de extracción con tus cambios propuestos.
+
+¡Gracias por tu interés!
+
+
